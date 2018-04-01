@@ -3,10 +3,10 @@
 return array(
 	//数据库配置信息
 	'db_host' => 'localhost',
-	'db_user' => 'homestead',
-	'db_pass' => 'secret',
+	'db_user' => 'root',
+	'db_pass' => 'root',
 	'db_name' => 'butterfly',
-	'db_port' => '33060',
+	'db_port' => '3306',
 	'charset' => 'utf8',
 
 	//框架初始化
